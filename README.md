@@ -1,2 +1,2 @@
 # Football-Data-Analysis
-Football results data analysis using Apache Spark, HDFS and Jupyter Notebooks
+The project aims to use big data queries with cloud technologies to explore the [Global Football Results dataset](https://www.kaggle.com/datasets/muhammadehsan02/global-football-results-18722024/data). This dataset includes historical information on various football (soccer) matches from 1872 to 2024, providing insights into team and player performances across various tournaments and match types. It contains three tables totalling more than 90,000 rows, collectively. This project will focus on analysing trends, predicting outcomes, and visualizing key football statistics using cloud computing technologies. 
